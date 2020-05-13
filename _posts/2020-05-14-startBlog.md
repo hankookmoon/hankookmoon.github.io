@@ -2,7 +2,7 @@
 layout : post
 title : "개발자가 되어 가는 과정"
 subtitle : "블로그 시작"
-data : 2020-05-13 08:20
+data : 2020-05-14
 background : '/img/bg-post.jpg'
 ---
 # 개발자가 되어 가는 과정
